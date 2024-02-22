@@ -7,5 +7,5 @@ Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia W
 
 - **Nome:** João Luís Ferreira Magalhães
 - **ID:** A100740
-- **Foto:** ![Fotografia do Aluno](myfoto.jpg)
+- **Foto:** <img src="myfoto.jpg" alt="João Luis Ferreira Magalhães" width="200">
  
