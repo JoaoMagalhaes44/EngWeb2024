@@ -1,5 +1,5 @@
-# TPC2: Cidades de Portugal
-## 2024-02-024
+# TPC3: Filmes americanos
+## 2024-02-029
 
 ## Autor:
 - A100740
@@ -7,9 +7,9 @@
 
 ## Resumo
 
-Neste trabalho realizou se um parsing de um ficheiro '.json' criando as respetivas páginas '.html' para cada cidade. Posteriormente foi criado um servidor '.js' com um url predefinido pelo professor para a página principal que continha os links para as cidades.
-Clicando num dos link das cidades acede-se à página individual da cidade, onde se pode consultar toda a informação. 
-Nesta página há também um link para regressar à página principal e os links das outras cidades.
+Neste trabalho realizou se um parsing de um ficheiro '.json', previamente preparado depois de executado em dois programas python. Posteriormente foi criado um servidor '.js' com um url predefinido pelo professor para a página principal que continha os links para os filmes, atores dos filmes e generos dos filmes.
+Clicando num dos link do filme acede-se a toda a informação do mesmo. 
+Clicando num dos link do atores acede-se à informação disponibilizada dos mesmos que era o seu nome. 
+Clicando num dos link do genero acede-se à informação dos generos existentes de todos os filmes do dataset. Cada genero é um link para todos os filmes com esse mesmo genero. 
 
-O site apresenta uma página principal com a lista de cidades, ordenada alfabeticamente.
-
+Em todas as paginas à link para regressar à pagina anterior exceto na pagina principal .
